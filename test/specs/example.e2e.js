@@ -1,5 +1,4 @@
 const dcxPage = require('../pageobjects/dcx.page')
-const SecurePage = require('../pageobjects/secure.page')
 const text = require('../../translations/data');
 
 const dropdownData = [
