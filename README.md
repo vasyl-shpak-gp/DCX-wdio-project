@@ -2,7 +2,7 @@
 
 ## Getting started
 Clone repo from:
-``git clone ``
+``git clone https://github.com/vasyl-shpak-gp/DCX-wdio-project.git ``
 
 Go to ``DCX-wdio-project`` directory and:
 
